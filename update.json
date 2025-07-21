@@ -10428,8 +10428,8 @@
     },
     {
       "Path": "resources/gui/logo.png",
-      "Hash": "4f8f075ded33e3b84735a33e723af405",
-      "Size": 2430658,
+      "Hash": "cf69aa436f65b12142dc32da6a65cb6e",
+      "Size": 218906,
       "ClientIgnore": true
     },
     {
@@ -11390,7 +11390,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "08fc8a5b9eb1d6bf3116f4cd50869309",
+      "Hash": "89636780106c999658d1829a339a885c",
       "Size": 14730
     },
     {
@@ -11420,18 +11420,18 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.1024x720.json",
-      "Hash": "f79f03927efeefc8d4d33c751d4b7419",
-      "Size": 32525
+      "Hash": "76ee2fa42454e3d2706b5f00a1767167",
+      "Size": 32045
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.1024x768.json",
-      "Hash": "2a364c37181d63cb1d1389875e2f83bf",
-      "Size": 31607
+      "Hash": "76ee2fa42454e3d2706b5f00a1767167",
+      "Size": 32045
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.800x600.json",
-      "Hash": "2a364c37181d63cb1d1389875e2f83bf",
-      "Size": 31607
+      "Hash": "76ee2fa42454e3d2706b5f00a1767167",
+      "Size": 32045
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
@@ -11555,7 +11555,7 @@
     },
     {
       "Path": "resources/gui/layouts/shared/InputBox.json",
-      "Hash": "a2be2610ef0a82d8dce60e24daad7ffa",
+      "Hash": "258c6ee197b11f9b423902f751cf16f2",
       "Size": 16651
     },
     {
@@ -30951,22 +30951,12 @@
     },
     {
       "Path": "resources/packs/graphics1138.asset",
-      "Hash": "842ca8339e4bbf14c81878ad2fb10dbd",
-      "Size": 1241109
-    },
-    {
-      "Path": "resources/packs/graphics1138.meta",
-      "Hash": "2d67d573891d81dd71f7835982b50f83",
-      "Size": 542
-    },
-    {
-      "Path": "resources/packs/graphics1139.asset",
       "Hash": "1fa37964e585e504de180b6c3f725b7f",
       "Size": 12814
     },
     {
-      "Path": "resources/packs/graphics1139.meta",
-      "Hash": "1375da375068b50fadfcb20ee2300e8c",
+      "Path": "resources/packs/graphics1138.meta",
+      "Hash": "4c0ec3bed43a738f1b5c3cf44a38d097",
       "Size": 542
     },
     {
@@ -35121,13 +35111,13 @@
     },
     {
       "Path": "resources/packs/graphics489.asset",
-      "Hash": "e68b8a7d6abc64e1a3e00d093eec6f2c",
-      "Size": 10638
+      "Hash": "e333cf430ff58d9c27b97e522aa9e3ae",
+      "Size": 293187
     },
     {
       "Path": "resources/packs/graphics489.meta",
-      "Hash": "1deacd738b03dece3d05982858f69e0f",
-      "Size": 926
+      "Hash": "c78c8f1cdb2ff19a40ddebd2fb146218",
+      "Size": 1294
     },
     {
       "Path": "resources/packs/graphics49.asset",
@@ -48418,6 +48408,11 @@
       "Hash": "f55f93a1c032e9ea6fb4f1ce578eba82",
       "Size": 2673,
       "ClientIgnore": true
+    },
+    {
+      "Path": "resources/resources/esmeralda.psd",
+      "Hash": "2464618eba6cc0a50f33178ed9fb9be1",
+      "Size": 42220
     },
     {
       "Path": "resources/resources/Green.png",
