@@ -11420,18 +11420,18 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.1024x720.json",
-      "Hash": "f79f03927efeefc8d4d33c751d4b7419",
-      "Size": 32525
+      "Hash": "76ee2fa42454e3d2706b5f00a1767167",
+      "Size": 32045
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.1024x768.json",
-      "Hash": "2a364c37181d63cb1d1389875e2f83bf",
-      "Size": 31607
+      "Hash": "76ee2fa42454e3d2706b5f00a1767167",
+      "Size": 32045
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.800x600.json",
-      "Hash": "2a364c37181d63cb1d1389875e2f83bf",
-      "Size": 31607
+      "Hash": "76ee2fa42454e3d2706b5f00a1767167",
+      "Size": 32045
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
